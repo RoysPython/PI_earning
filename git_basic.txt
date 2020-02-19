@@ -25,3 +25,7 @@ you need to merge some chanes to master branch
 1. git checkout: to master branch
 2. git merge <name>
 3. git merge -abort: to abort merge if there are conflicts
+
+you want to release this repository so as to be downloaded
+1. git tag -a <name: name the version
+2. git push --tags: release it
