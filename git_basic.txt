@@ -24,3 +24,4 @@ you want to check all the branches
 you need to merge some chanes to master branch
 1. git checkout: to master branch
 2. git merge <name>
+3. git merge -abort: to abort merge if there are conflicts
