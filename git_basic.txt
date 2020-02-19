@@ -15,7 +15,12 @@ sometimes you want to return to a history or make some experiments
 1. git log: check the history code you want to look back
 2. git checkout <history code>: get back the history
 3. git checkout -b <name>: create a new branch to save these changes
+4. git add: if you make any changes
 
 you want to check all the branches
 1. git branch: check all the branches
 2. git switch: switch to the branch you want. "-c" means create such a branch if there isn't one
+
+you need to merge some chanes to master branch
+1. git checkout: to master branch
+2. git merge <name>
