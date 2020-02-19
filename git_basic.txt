@@ -29,3 +29,6 @@ you need to merge some chanes to master branch
 you want to release this repository so as to be downloaded
 1. git tag -a <name: name the version
 2. git push --tags: release it
+
+you want to push this subbranch to the remote repository
+1. git push --set-upstream <upstream_name>  <branch_name>
