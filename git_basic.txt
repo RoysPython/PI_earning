@@ -1,0 +1,12 @@
+git pull: update from remote repository
+
+usually after some changes, use
+1. git status: to check what you changed, can also use "git diff"
+2. git add: to add add your changes
+3. git commit: commit your changes. "-a" measns all changes, "-m" add messages
+4. git push: update your file to remote repository
+
+some times there are collitions between your and remote repository
+1. git pull to check the differences
+2. edit your file and follow steps above
+3. git commit or keep remote changes
